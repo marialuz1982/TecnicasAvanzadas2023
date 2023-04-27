@@ -13,9 +13,9 @@ El proyecto está desarrollado utilizando las siguientes tecnologías:
 Para ejecutar el proyecto, sigue los siguientes pasos:
 
 1. Clona el repositorio en tu computadora.
-2. Configura la base de datos MySQL con los scripts que se encuentran en la carpeta "database".
-3. Abre el proyecto en un IDE como Eclipse y ejecuta la clase "Application.java".
-4. Abre una terminal y navega hasta la carpeta "client" del proyecto.
+2. Configura la base de datos MySQL con los scripts que se encuentran en la carpeta "california-bd".
+3. Abre el proyecto en un IDE como Eclipse y ejecuta la clase "CaliforniaBackApplication.java".
+4. Abre una terminal con la carpeta "california-front".
 5. Ejecuta el comando `npm install` para instalar las dependencias.
 6. Ejecuta el comando `npm start` para iniciar la aplicación.
 
